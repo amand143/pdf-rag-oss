@@ -1,4 +1,4 @@
-*Steps*
+**Steps**
 Install ollama 
 pull llama2.
 Install requirements using pip install -r requirememts.txt
